@@ -2,23 +2,23 @@
 <testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-06T08:26:24 EDT" name="Suite" finished-at="2025-07-06T08:30:36 EDT" duration-ms="251875">
+  <suite started-at="2025-07-07T17:07:22 EDT" name="Suite" finished-at="2025-07-07T17:12:05 EDT" duration-ms="282043">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2025-07-06T08:26:24 EDT" name="Test" finished-at="2025-07-06T08:30:36 EDT" duration-ms="251875">
+    <test started-at="2025-07-07T17:07:22 EDT" name="Test" finished-at="2025-07-07T17:12:05 EDT" duration-ms="282043">
       <class name="com.fidelis.runners.RegressionTest">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:26:24 EDT" name="beforeSuite" finished-at="2025-07-06T08:26:24 EDT" duration-ms="17" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:07:22 EDT" name="beforeSuite" finished-at="2025-07-07T17:07:22 EDT" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:26:24 EDT" name="setUpClass" finished-at="2025-07-06T08:26:25 EDT" duration-ms="306" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:07:23 EDT" name="setUpClass" finished-at="2025-07-07T17:07:23 EDT" duration-ms="226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:26:25 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:26:40 EDT" duration-ms="15544" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:07:23 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:07:39 EDT" duration-ms="16092" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:26:40 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:27:06 EDT" duration-ms="25464" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:07:39 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:08:12 EDT" duration-ms="33082" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:27:06 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:27:33 EDT" duration-ms="27414" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:08:12 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:08:42 EDT" duration-ms="29795" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -66,7 +66,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:27:33 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:27:58 EDT" duration-ms="24668" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:08:42 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:09:11 EDT" duration-ms="29463" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:27:58 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:28:49 EDT" duration-ms="51575" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:09:11 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:10:06 EDT" duration-ms="54388" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -103,9 +103,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.22.0', revision: 'c5f3146703*'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7840d72e6bd77f1b19a9863c1e43e476, findElement {using=xpath, value=//div[contains(text(),'Step 3: Review Your Plan Documents')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\mdrhm\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58691}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58691/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 7840d72e6bd77f1b19a9863c1e43e476]]>
+Command: [54bde6e26898783fa21f3a5a1fc0bc3a, findElement {value=//div[contains(text(),'Step 3: Review Your Plan Documents')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\mdrhm\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59421}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59421/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 54bde6e26898783fa21f3a5a1fc0bc3a]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Step 3: Review Your Plan Documents')]"}
@@ -114,9 +114,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.22.0', revision: 'c5f3146703*'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7840d72e6bd77f1b19a9863c1e43e476, findElement {using=xpath, value=//div[contains(text(),'Step 3: Review Your Plan Documents')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\mdrhm\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58691}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58691/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 7840d72e6bd77f1b19a9863c1e43e476
+Command: [54bde6e26898783fa21f3a5a1fc0bc3a, findElement {value=//div[contains(text(),'Step 3: Review Your Plan Documents')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\mdrhm\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59421}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59421/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 54bde6e26898783fa21f3a5a1fc0bc3a
 at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
 at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
 at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
@@ -143,7 +143,7 @@ at ✽.I click on RYPD button(file:///C:/Users/mdrhm/OneDrive/Desktop/OSA0820202
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:28:49 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:29:13 EDT" duration-ms="23788" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:10:06 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:10:37 EDT" duration-ms="31811" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -159,7 +159,7 @@ at ✽.I click on RYPD button(file:///C:/Users/mdrhm/OneDrive/Desktop/OSA0820202
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:29:13 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:29:37 EDT" duration-ms="24204" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:10:37 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:11:02 EDT" duration-ms="24879" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -175,7 +175,7 @@ at ✽.I click on RYPD button(file:///C:/Users/mdrhm/OneDrive/Desktop/OSA0820202
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:29:37 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:29:58 EDT" duration-ms="21148" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:11:02 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:11:24 EDT" duration-ms="21901" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -191,7 +191,7 @@ at ✽.I click on RYPD button(file:///C:/Users/mdrhm/OneDrive/Desktop/OSA0820202
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:29:58 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-06T08:30:35 EDT" duration-ms="36255" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:11:24 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-07T17:12:03 EDT" duration-ms="38994" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -207,11 +207,11 @@ at ✽.I click on RYPD button(file:///C:/Users/mdrhm/OneDrive/Desktop/OSA0820202
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:30:35 EDT" name="tearDownClass" finished-at="2025-07-06T08:30:36 EDT" duration-ms="1473" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:12:03 EDT" name="tearDownClass" finished-at="2025-07-07T17:12:05 EDT" duration-ms="1379" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-06T08:30:36 EDT" name="afterSuite" finished-at="2025-07-06T08:30:36 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.fidelis.runners.RegressionTest@3c72f59f]" started-at="2025-07-07T17:12:05 EDT" name="afterSuite" finished-at="2025-07-07T17:12:05 EDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

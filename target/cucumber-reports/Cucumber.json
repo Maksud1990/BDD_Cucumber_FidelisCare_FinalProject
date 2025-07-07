@@ -3,14 +3,15 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2025-07-06T12:26:25.170Z",
+        "start_timestamp": "2025-07-07T21:07:23.377Z",
         "before": [
           {
             "result": {
+              "duration": 1999900,
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
             }
           },
           {
@@ -18,7 +19,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
             }
           }
         ],
@@ -29,10 +30,11 @@
         "after": [
           {
             "result": {
+              "duration": 1003700,
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
             }
           },
           {
@@ -40,7 +42,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
             }
           }
         ],
@@ -49,7 +51,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9474983600,
+              "duration": 10085790200,
               "status": "passed"
             },
             "line": 5,
@@ -61,7 +63,7 @@
           },
           {
             "result": {
-              "duration": 2683007100,
+              "duration": 2506056200,
               "status": "passed"
             },
             "line": 6,
@@ -73,7 +75,7 @@
           },
           {
             "result": {
-              "duration": 32989500,
+              "duration": 21444900,
               "status": "passed"
             },
             "line": 7,
@@ -85,7 +87,7 @@
           },
           {
             "result": {
-              "duration": 3266394300,
+              "duration": 3334898200,
               "status": "passed"
             },
             "line": 8,
@@ -134,7 +136,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7460286900,
+              "duration": 10619738100,
               "status": "passed"
             },
             "line": 4,
@@ -146,7 +148,7 @@
           },
           {
             "result": {
-              "duration": 2949348600,
+              "duration": 4601453800,
               "status": "passed"
             },
             "line": 5,
@@ -159,7 +161,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-07-06T12:26:40.647Z",
+        "start_timestamp": "2025-07-07T21:07:39.341Z",
         "before": [
           {
             "result": {
@@ -189,7 +191,7 @@
         "steps": [
           {
             "result": {
-              "duration": 230069400,
+              "duration": 194537600,
               "status": "passed"
             },
             "line": 9,
@@ -201,7 +203,7 @@
           },
           {
             "result": {
-              "duration": 216576900,
+              "duration": 175822000,
               "status": "passed"
             },
             "line": 10,
@@ -213,7 +215,7 @@
           },
           {
             "result": {
-              "duration": 9946100,
+              "duration": 14202800,
               "status": "passed"
             },
             "line": 11,
@@ -225,7 +227,7 @@
           },
           {
             "result": {
-              "duration": 1522358900,
+              "duration": 3679321400,
               "status": "passed"
             },
             "line": 12,
@@ -237,7 +239,7 @@
           },
           {
             "result": {
-              "duration": 4161319900,
+              "duration": 4311826500,
               "status": "passed"
             },
             "line": 13,
@@ -249,7 +251,7 @@
           },
           {
             "result": {
-              "duration": 93708400,
+              "duration": 202901100,
               "status": "passed"
             },
             "line": 14,
@@ -261,7 +263,7 @@
           },
           {
             "result": {
-              "duration": 122671100,
+              "duration": 190666900,
               "status": "passed"
             },
             "line": 15,
@@ -279,7 +281,7 @@
           },
           {
             "result": {
-              "duration": 1304639500,
+              "duration": 1670378000,
               "status": "passed"
             },
             "line": 16,
@@ -297,7 +299,7 @@
           },
           {
             "result": {
-              "duration": 4102897900,
+              "duration": 4113716700,
               "status": "passed"
             },
             "line": 17,
@@ -320,7 +322,7 @@
           },
           {
             "result": {
-              "duration": 3276696800,
+              "duration": 3297327100,
               "status": "passed"
             },
             "line": 19,
@@ -346,7 +348,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8377460000,
+              "duration": 9460475300,
               "status": "passed"
             },
             "line": 4,
@@ -358,7 +360,7 @@
           },
           {
             "result": {
-              "duration": 2325174900,
+              "duration": 2826236900,
               "status": "passed"
             },
             "line": 5,
@@ -371,7 +373,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-07-06T12:27:06.102Z",
+        "start_timestamp": "2025-07-07T21:08:12.421Z",
         "before": [
           {
             "result": {
@@ -389,6 +391,7 @@
         "after": [
           {
             "result": {
+              "duration": 1001200,
               "status": "passed"
             },
             "match": {
@@ -401,7 +404,7 @@
         "steps": [
           {
             "result": {
-              "duration": 235289000,
+              "duration": 241317200,
               "status": "passed"
             },
             "line": 23,
@@ -413,7 +416,7 @@
           },
           {
             "result": {
-              "duration": 235309100,
+              "duration": 217535700,
               "status": "passed"
             },
             "line": 24,
@@ -425,7 +428,7 @@
           },
           {
             "result": {
-              "duration": 15792100,
+              "duration": 14003400,
               "status": "passed"
             },
             "line": 25,
@@ -437,7 +440,7 @@
           },
           {
             "result": {
-              "duration": 3464077500,
+              "duration": 3825073200,
               "status": "passed"
             },
             "line": 26,
@@ -449,7 +452,7 @@
           },
           {
             "result": {
-              "duration": 4178555700,
+              "duration": 4254248500,
               "status": "passed"
             },
             "line": 27,
@@ -461,7 +464,7 @@
           },
           {
             "result": {
-              "duration": 103690500,
+              "duration": 127981900,
               "status": "passed"
             },
             "line": 28,
@@ -473,7 +476,7 @@
           },
           {
             "result": {
-              "duration": 112524800,
+              "duration": 150511800,
               "status": "passed"
             },
             "line": 29,
@@ -491,7 +494,7 @@
           },
           {
             "result": {
-              "duration": 1047681300,
+              "duration": 1265196400,
               "status": "passed"
             },
             "line": 30,
@@ -509,7 +512,7 @@
           },
           {
             "result": {
-              "duration": 4069187000,
+              "duration": 4109763200,
               "status": "passed"
             },
             "line": 31,
@@ -532,7 +535,7 @@
           },
           {
             "result": {
-              "duration": 3245095000,
+              "duration": 3295004500,
               "status": "passed"
             },
             "line": 33,
@@ -561,7 +564,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7561913000,
+              "duration": 8746859400,
               "status": "passed"
             },
             "line": 4,
@@ -573,7 +576,7 @@
           },
           {
             "result": {
-              "duration": 2080196100,
+              "duration": 3322850100,
               "status": "passed"
             },
             "line": 5,
@@ -586,14 +589,14 @@
         ]
       },
       {
-        "start_timestamp": "2025-07-06T12:27:33.517Z",
+        "start_timestamp": "2025-07-07T21:08:42.214Z",
         "before": [
           {
             "result": {
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
             }
           },
           {
@@ -601,7 +604,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
             }
           }
         ],
@@ -615,7 +618,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
             }
           },
           {
@@ -623,7 +626,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
             }
           }
         ],
@@ -632,7 +635,7 @@
         "steps": [
           {
             "result": {
-              "duration": 241979700,
+              "duration": 237912400,
               "status": "passed"
             },
             "line": 37,
@@ -644,7 +647,7 @@
           },
           {
             "result": {
-              "duration": 244019700,
+              "duration": 223387100,
               "status": "passed"
             },
             "line": 38,
@@ -656,7 +659,7 @@
           },
           {
             "result": {
-              "duration": 15053900,
+              "duration": 9498000,
               "status": "passed"
             },
             "line": 39,
@@ -668,7 +671,7 @@
           },
           {
             "result": {
-              "duration": 1522342600,
+              "duration": 3517209400,
               "status": "passed"
             },
             "line": 40,
@@ -680,7 +683,7 @@
           },
           {
             "result": {
-              "duration": 4173229500,
+              "duration": 4226446400,
               "status": "passed"
             },
             "line": 41,
@@ -692,7 +695,7 @@
           },
           {
             "result": {
-              "duration": 135621000,
+              "duration": 112952500,
               "status": "passed"
             },
             "line": 42,
@@ -704,7 +707,7 @@
           },
           {
             "result": {
-              "duration": 164060400,
+              "duration": 147777200,
               "status": "passed"
             },
             "line": 43,
@@ -722,7 +725,7 @@
           },
           {
             "result": {
-              "duration": 1107990900,
+              "duration": 1441332200,
               "status": "passed"
             },
             "line": 44,
@@ -740,7 +743,7 @@
           },
           {
             "result": {
-              "duration": 4113479200,
+              "duration": 4116210700,
               "status": "passed"
             },
             "line": 45,
@@ -763,7 +766,7 @@
           },
           {
             "result": {
-              "duration": 3301607500,
+              "duration": 3355875300,
               "status": "passed"
             },
             "line": 47,
@@ -804,14 +807,14 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2025-07-06T12:27:58.185Z",
+        "start_timestamp": "2025-07-07T21:09:11.678Z",
         "before": [
           {
             "result": {
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
             }
           },
           {
@@ -819,7 +822,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
             }
           }
         ],
@@ -833,7 +836,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
             }
           },
           {
@@ -841,7 +844,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
             }
           }
         ],
@@ -850,7 +853,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7458767600,
+              "duration": 7869497100,
               "status": "passed"
             },
             "line": 5,
@@ -862,7 +865,7 @@
           },
           {
             "result": {
-              "duration": 2268693400,
+              "duration": 3191994400,
               "status": "passed"
             },
             "line": 6,
@@ -874,7 +877,7 @@
           },
           {
             "result": {
-              "duration": 2586697000,
+              "duration": 3988664100,
               "status": "passed"
             },
             "line": 7,
@@ -886,7 +889,7 @@
           },
           {
             "result": {
-              "duration": 3097246900,
+              "duration": 3131907400,
               "status": "passed"
             },
             "line": 8,
@@ -898,7 +901,7 @@
           },
           {
             "result": {
-              "duration": 3096034100,
+              "duration": 3139538100,
               "status": "passed"
             },
             "line": 9,
@@ -910,8 +913,8 @@
           },
           {
             "result": {
-              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),\u0027Step 3: Review Your Plan Documents\u0027)]\"}\n  (Session info: chrome\u003d137.0.7151.122)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: \u00274.22.0\u0027, revision: \u0027c5f3146703*\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002721.0.3\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [7840d72e6bd77f1b19a9863c1e43e476, findElement {using\u003dxpath, value\u003d//div[contains(text(),\u0027Step 3: Review Your Plan Documents\u0027)]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\\Users\\mdrhm\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58691}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58691/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 7840d72e6bd77f1b19a9863c1e43e476\r\n\tat java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)\r\n\tat org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)\r\n\tat com.fidelis.pages.MemberPage.reviewYourPlanDocuments(MemberPage.java:57)\r\n\tat com.fidelis.steps.StepDefinition.i_click_on_RYPD_button(StepDefinition.java:200)\r\n\tat ✽.I click on RYPD button(file:///C:/Users/mdrhm/OneDrive/Desktop/OSA0820202325A/BDD_Cucumber_FidelisCare_Project/src/test/java/com/fidelis/features/MemberPage.feature:10)\r\n",
-              "duration": 33064040800,
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),\u0027Step 3: Review Your Plan Documents\u0027)]\"}\n  (Session info: chrome\u003d137.0.7151.122)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: \u00274.22.0\u0027, revision: \u0027c5f3146703*\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002721.0.3\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [54bde6e26898783fa21f3a5a1fc0bc3a, findElement {value\u003d//div[contains(text(),\u0027Step 3: Review Your Plan Documents\u0027)], using\u003dxpath}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\\Users\\mdrhm\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59421}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59421/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 54bde6e26898783fa21f3a5a1fc0bc3a\r\n\tat java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)\r\n\tat org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)\r\n\tat com.fidelis.pages.MemberPage.reviewYourPlanDocuments(MemberPage.java:57)\r\n\tat com.fidelis.steps.StepDefinition.i_click_on_RYPD_button(StepDefinition.java:200)\r\n\tat ✽.I click on RYPD button(file:///C:/Users/mdrhm/OneDrive/Desktop/OSA0820202325A/BDD_Cucumber_FidelisCare_Project/src/test/java/com/fidelis/features/MemberPage.feature:10)\r\n",
+              "duration": 33059355000,
               "status": "failed"
             },
             "line": 10,
@@ -1071,7 +1074,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7072342700,
+              "duration": 8489452700,
               "status": "passed"
             },
             "line": 3,
@@ -1083,7 +1086,7 @@
           },
           {
             "result": {
-              "duration": 2030112200,
+              "duration": 4988329900,
               "status": "passed"
             },
             "line": 4,
@@ -1096,7 +1099,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-07-06T12:28:49.762Z",
+        "start_timestamp": "2025-07-07T21:10:06.070Z",
         "before": [
           {
             "result": {
@@ -1126,7 +1129,7 @@
         "steps": [
           {
             "result": {
-              "duration": 195040500,
+              "duration": 207755500,
               "status": "passed"
             },
             "line": 12,
@@ -1138,7 +1141,7 @@
           },
           {
             "result": {
-              "duration": 235056200,
+              "duration": 230782400,
               "status": "passed"
             },
             "line": 13,
@@ -1150,7 +1153,7 @@
           },
           {
             "result": {
-              "duration": 1520088300,
+              "duration": 4720150300,
               "status": "passed"
             },
             "line": 14,
@@ -1162,7 +1165,7 @@
           },
           {
             "result": {
-              "duration": 4162958200,
+              "duration": 4229563000,
               "status": "passed"
             },
             "line": 15,
@@ -1174,7 +1177,7 @@
           },
           {
             "result": {
-              "duration": 97551300,
+              "duration": 131264000,
               "status": "passed"
             },
             "line": 16,
@@ -1186,7 +1189,7 @@
           },
           {
             "result": {
-              "duration": 128519700,
+              "duration": 184918300,
               "status": "passed"
             },
             "line": 17,
@@ -1204,7 +1207,7 @@
           },
           {
             "result": {
-              "duration": 978730600,
+              "duration": 1224439300,
               "status": "passed"
             },
             "line": 18,
@@ -1222,7 +1225,7 @@
           },
           {
             "result": {
-              "duration": 4072089200,
+              "duration": 4112908100,
               "status": "passed"
             },
             "line": 20,
@@ -1234,7 +1237,7 @@
           },
           {
             "result": {
-              "duration": 3292720600,
+              "duration": 3287619000,
               "status": "passed"
             },
             "line": 21,
@@ -1260,7 +1263,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6968976900,
+              "duration": 4068471500,
               "status": "passed"
             },
             "line": 3,
@@ -1272,7 +1275,7 @@
           },
           {
             "result": {
-              "duration": 2051215400,
+              "duration": 5323651700,
               "status": "passed"
             },
             "line": 4,
@@ -1285,7 +1288,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-07-06T12:29:13.550Z",
+        "start_timestamp": "2025-07-07T21:10:37.882Z",
         "before": [
           {
             "result": {
@@ -1315,7 +1318,7 @@
         "steps": [
           {
             "result": {
-              "duration": 223047000,
+              "duration": 141690800,
               "status": "passed"
             },
             "line": 12,
@@ -1327,7 +1330,7 @@
           },
           {
             "result": {
-              "duration": 222006500,
+              "duration": 262935200,
               "status": "passed"
             },
             "line": 13,
@@ -1339,7 +1342,7 @@
           },
           {
             "result": {
-              "duration": 1694598100,
+              "duration": 1615406100,
               "status": "passed"
             },
             "line": 14,
@@ -1351,7 +1354,7 @@
           },
           {
             "result": {
-              "duration": 4170494900,
+              "duration": 4408382800,
               "status": "passed"
             },
             "line": 15,
@@ -1363,7 +1366,7 @@
           },
           {
             "result": {
-              "duration": 95815900,
+              "duration": 195216200,
               "status": "passed"
             },
             "line": 16,
@@ -1375,7 +1378,7 @@
           },
           {
             "result": {
-              "duration": 125031600,
+              "duration": 270419200,
               "status": "passed"
             },
             "line": 17,
@@ -1393,7 +1396,7 @@
           },
           {
             "result": {
-              "duration": 1321491700,
+              "duration": 1151430500,
               "status": "passed"
             },
             "line": 18,
@@ -1411,7 +1414,7 @@
           },
           {
             "result": {
-              "duration": 4080395700,
+              "duration": 4090939100,
               "status": "passed"
             },
             "line": 20,
@@ -1423,7 +1426,7 @@
           },
           {
             "result": {
-              "duration": 3247339300,
+              "duration": 3348045200,
               "status": "passed"
             },
             "line": 21,
@@ -1452,14 +1455,14 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2025-07-06T12:29:37.755Z",
+        "start_timestamp": "2025-07-07T21:11:02.761Z",
         "before": [
           {
             "result": {
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
             }
           },
           {
@@ -1467,7 +1470,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
             }
           }
         ],
@@ -1481,7 +1484,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
             }
           },
           {
@@ -1489,7 +1492,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
             }
           }
         ],
@@ -1498,7 +1501,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7474045900,
+              "duration": 3793894200,
               "status": "passed"
             },
             "line": 5,
@@ -1510,7 +1513,7 @@
           },
           {
             "result": {
-              "duration": 2623498900,
+              "duration": 5455029500,
               "status": "passed"
             },
             "line": 6,
@@ -1522,7 +1525,7 @@
           },
           {
             "result": {
-              "duration": 4417321200,
+              "duration": 5974637600,
               "status": "passed"
             },
             "line": 7,
@@ -1534,7 +1537,7 @@
           },
           {
             "result": {
-              "duration": 2252843900,
+              "duration": 2268440100,
               "status": "passed"
             },
             "line": 9,
@@ -1546,7 +1549,7 @@
           },
           {
             "result": {
-              "duration": 972190900,
+              "duration": 1008595200,
               "status": "passed"
             },
             "line": 10,
@@ -1564,7 +1567,7 @@
           },
           {
             "result": {
-              "duration": 108473800,
+              "duration": 102998800,
               "status": "passed"
             },
             "line": 11,
@@ -1582,7 +1585,7 @@
           },
           {
             "result": {
-              "duration": 3296818500,
+              "duration": 3294081800,
               "status": "passed"
             },
             "line": 14,
@@ -1623,14 +1626,14 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2025-07-06T12:29:58.902Z",
+        "start_timestamp": "2025-07-07T21:11:24.662Z",
         "before": [
           {
             "result": {
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
             }
           },
           {
@@ -1638,7 +1641,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runBeforeScenario()"
+              "location": "com.fidelis.steps.Hooks.runBeforeTagScenario()"
             }
           }
         ],
@@ -1652,7 +1655,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
             }
           },
           {
@@ -1660,7 +1663,7 @@
               "status": "passed"
             },
             "match": {
-              "location": "com.fidelis.steps.Hooks.runAfterTagScenario()"
+              "location": "com.fidelis.steps.Hooks.runAfterScenario()"
             }
           }
         ],
@@ -1669,7 +1672,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7274054200,
+              "duration": 8303545600,
               "status": "passed"
             },
             "line": 5,
@@ -1681,7 +1684,7 @@
           },
           {
             "result": {
-              "duration": 2312155800,
+              "duration": 3133723400,
               "status": "passed"
             },
             "line": 6,
@@ -1693,7 +1696,7 @@
           },
           {
             "result": {
-              "duration": 6535087000,
+              "duration": 7073479900,
               "status": "passed"
             },
             "line": 7,
@@ -1705,7 +1708,7 @@
           },
           {
             "result": {
-              "duration": 2108835800,
+              "duration": 2215623300,
               "status": "passed"
             },
             "line": 8,
@@ -1717,7 +1720,7 @@
           },
           {
             "result": {
-              "duration": 2089051000,
+              "duration": 2141931200,
               "status": "passed"
             },
             "line": 9,
@@ -1729,7 +1732,7 @@
           },
           {
             "result": {
-              "duration": 2090700900,
+              "duration": 2199340300,
               "status": "passed"
             },
             "line": 10,
@@ -1741,7 +1744,7 @@
           },
           {
             "result": {
-              "duration": 2087847200,
+              "duration": 2120981000,
               "status": "passed"
             },
             "line": 11,
@@ -1753,7 +1756,7 @@
           },
           {
             "result": {
-              "duration": 2094830100,
+              "duration": 2162723800,
               "status": "passed"
             },
             "line": 12,
@@ -1765,7 +1768,7 @@
           },
           {
             "result": {
-              "duration": 2085746700,
+              "duration": 2100961200,
               "status": "passed"
             },
             "line": 13,
@@ -1777,7 +1780,7 @@
           },
           {
             "result": {
-              "duration": 2130083400,
+              "duration": 2100983700,
               "status": "passed"
             },
             "line": 14,
@@ -1789,7 +1792,7 @@
           },
           {
             "result": {
-              "duration": 2138744100,
+              "duration": 2137311400,
               "status": "passed"
             },
             "line": 15,
@@ -1801,7 +1804,7 @@
           },
           {
             "result": {
-              "duration": 3305016200,
+              "duration": 3298944200,
               "status": "passed"
             },
             "line": 16,
